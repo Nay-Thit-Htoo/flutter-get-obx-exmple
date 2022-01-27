@@ -1,7 +1,7 @@
 # Flutter-Get-Obx-Example
 
 Simple flutter project with state management using get(obx).
-![Demo](https://github.com/Nay-Thit-Htoo/flutter-get-obx-exmple/blob/master/lib/SVID_20220127_211625_1.mp4)
+![Demo](https://github.com/Nay-Thit-Htoo/flutter-get-obx-exmple/blob/master/lib/SVID_20220127_211625_1.gif)
 
 ## Getting Started
 
