@@ -1,4 +1,4 @@
-# flutter_getobx_testing
+# Flutter-Get-Obx-Example
 
 A new Flutter project.
 
